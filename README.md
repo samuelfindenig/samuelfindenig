@@ -1,8 +1,9 @@
 
 # 💫 About Me:
 📖 Student at HTL - Bulme Graz<br>
-🧗🏼‍♂️  Climber<br>🔢 I like writing algorithms<br>
+🧗🏼‍♂️ Climber<br>🔢 I like writing algorithms<br>
 👨🏽‍💻 Currently learning C / C++
+🅰 Dyslexic - so dont judge my spelling
 
 
 ## 🌐 Socials:
