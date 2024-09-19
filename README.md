@@ -2,7 +2,7 @@
 # 💫 About Me:
 📖 Student at HTL - Bulme Graz<br>
 🧗🏼‍♂️ Climber<br>🔢 I like writing algorithms<br>
-👨🏽‍💻 Currently learning C / C++
+👨🏽‍💻 Currently learning C / C++<br>
 🅰 Dyslexic - so dont judge my spelling
 
 
